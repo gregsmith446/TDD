@@ -1,0 +1,17 @@
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\02TDDKarateChop.dll
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\obj\Debug\netcoreapp2.1\KarateTests.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\obj\Debug\netcoreapp2.1\KarateTests.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\obj\Debug\netcoreapp2.1\KarateTests.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\obj\Debug\netcoreapp2.1\KarateTests.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\KarateTests.deps.json
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\KarateTests.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\KarateTests.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\KarateTests.dll
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\KarateTests.pdb
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\bin\Debug\netcoreapp2.1\02TDDKarateChop.pdb
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\obj\Debug\netcoreapp2.1\KarateTests.csproj.CopyComplete
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\obj\Debug\netcoreapp2.1\KarateTests.dll
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\KarateTests\obj\Debug\netcoreapp2.1\KarateTests.pdb

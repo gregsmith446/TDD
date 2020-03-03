@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.deps.json
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.dll
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.pdb
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.dll
+C:\Users\gregs\Desktop\CD\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.pdb

@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\KarateTests\\KarateTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\02TDDKarateChop\\02TDDKarateChop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\02TDDKarateChop\\02TDDKarateChop.csproj",
+        "projectName": "02TDDKarateChop",
+        "projectPath": "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\02TDDKarateChop\\02TDDKarateChop.csproj",
+        "packagesPath": "C:\\Users\\gregs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\02TDDKarateChop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gregs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\KarateTests\\KarateTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\KarateTests\\KarateTests.csproj",
+        "projectName": "KarateTests",
+        "projectPath": "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\KarateTests\\KarateTests.csproj",
+        "packagesPath": "C:\\Users\\gregs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\KarateTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gregs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\02TDDKarateChop\\02TDDKarateChop.csproj": {
+                "projectPath": "C:\\Users\\gregs\\Desktop\\dev projects\\TEST DRIVEN DEVELOPMENT\\TDDKarateChop\\02TDDKarateChop\\02TDDKarateChop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

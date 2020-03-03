@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\bin\Debug\netcoreapp2.1\02TDDKarateChop.deps.json
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\bin\Debug\netcoreapp2.1\02TDDKarateChop.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\bin\Debug\netcoreapp2.1\02TDDKarateChop.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\bin\Debug\netcoreapp2.1\02TDDKarateChop.dll
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\bin\Debug\netcoreapp2.1\02TDDKarateChop.pdb
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\obj\Debug\netcoreapp2.1\02TDDKarateChop.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\obj\Debug\netcoreapp2.1\02TDDKarateChop.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\obj\Debug\netcoreapp2.1\02TDDKarateChop.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\obj\Debug\netcoreapp2.1\02TDDKarateChop.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\obj\Debug\netcoreapp2.1\02TDDKarateChop.dll
+C:\Users\gregs\Desktop\CD\02TDDKarateChop\02TDDKarateChop\obj\Debug\netcoreapp2.1\02TDDKarateChop.pdb

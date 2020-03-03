@@ -1,0 +1,14 @@
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\ipAddressValidator.deps.json
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\ipAddressValidator.dll
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\obj\Debug\netcoreapp2.1\ipAddressValidator.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\obj\Debug\netcoreapp2.1\ipAddressValidator.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\obj\Debug\netcoreapp2.1\ipAddressValidator.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\obj\Debug\netcoreapp2.1\ipAddressValidator.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\ipAddressValidator.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\ipAddressValidator.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\bin\Debug\netcoreapp2.1\ipAddressValidator.pdb
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\obj\Debug\netcoreapp2.1\ipAddressValidator.dll
+C:\Users\gregs\Desktop\CD\TDDBuddy\ipAddressValidator\ipAddressValidator\obj\Debug\netcoreapp2.1\ipAddressValidator.pdb

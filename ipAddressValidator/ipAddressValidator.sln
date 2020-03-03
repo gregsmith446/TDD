@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ipAddressValidator", "ipAddressValidator\ipAddressValidator.csproj", "{B1FBF3A4-EA87-4DC0-A125-D5DB7CDE5B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1FBF3A4-EA87-4DC0-A125-D5DB7CDE5B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FBF3A4-EA87-4DC0-A125-D5DB7CDE5B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FBF3A4-EA87-4DC0-A125-D5DB7CDE5B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FBF3A4-EA87-4DC0-A125-D5DB7CDE5B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52F48390-7A28-433B-AC9E-649A2ABB5ECD}
+	EndGlobalSection
+EndGlobal
